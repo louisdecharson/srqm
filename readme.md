@@ -9,11 +9,7 @@ This repository contains the Statistical Reasoning and Quantitative Methods (SRQ
 
 
 ## Data
-| Filename | Data                            |         Years |
-|----------+---------------------------------+---------------|
-| ess0810  | European Social Survey          |    Rounds 4-5 |
-| gss0012  | General Social Survey           |     2000-2012 |
-| nhis9711 | National Health Interview Surve |     1997-2011 |
-| qog2013  | Quality of Government           |          2009 |
-| wvs2000  | World Values Survey             | Wave 4 (2000) |
-|----------+---------------------------------+---------------|
+| Filename   | Data                              |        Years |
+|:-----------|:---------------------------------|:--------------|
+| `nhis9711` | National Health Interview Survey |     1997-2011 |
+
